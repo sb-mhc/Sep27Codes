@@ -9,7 +9,7 @@ public class FirstGUI extends Application {
 	}
 	
 	@Override
-	public void start(Stage pStage) {
-		pStage.show();
+	public void start(Stage primaryStage) {
+		primaryStage.show();
 	}
 }
