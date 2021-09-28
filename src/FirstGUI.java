@@ -28,6 +28,7 @@ public class FirstGUI extends Application {
 		
 		//Add scene to stage
 		primaryStage.setScene(s1);
+		//trial
 		
 		//Show stage
 		
